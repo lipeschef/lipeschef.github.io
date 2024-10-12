@@ -1,0 +1,31 @@
+Body {
+    background-color: rgb(53, 53, 53);
+    color:rgb(226, 226, 226);
+    font-family: 'bahnschrift', 'segoe-ui', Geneva, Verdana, sans-serif;
+}
+
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+    
+#favicon {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 20px;
+}
+
+#heading-menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    font-size: 25px;
+}
+
+#buttons-menu {
+    padding: 10px;
+}
+
